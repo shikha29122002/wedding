@@ -1,0 +1,721 @@
+.bg-light {
+    background-color: lightgray;
+}
+	.navbar-light .navbar-brand {
+       color: lightcoral;
+    font-size: 3rem;
+}		.navbar-brand span {
+    color: grey;
+}
+.navbar-button {
+    background-color: lightcoral;
+    margin-right: 9rem;
+    font-size: 2rem;
+    color: white;
+    padding-top: 0.5rem;
+    border-color: lightcoral;
+    border-radius: 10px;
+}
+		.navbars {
+    width: 101%;
+    font-size: 2rem;
+	 font-family: "Sevillana", cursive;
+}
+    .navbar-expand-lg {
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        text-transform: capitalize;
+        color: coral;
+    }
+	.navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+        padding-left: 5rem;
+    }
+	.navbar-expand-lg .navbar-nav li{
+		padding:1rem;
+	}
+	.navbar-light.navbar-brand {
+    color: lightcoral;
+	 font-family: "Sevillana", cursive;
+    font-size: 3rem;
+}
+	.navbar-brand span{
+		color:grey;
+	}
+	.btn {
+    display: inline-block;
+    font-weight: 100;
+    line-height: 1.5rem;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    padding: 21rem;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 20.1px;
+	}
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 22px;
+    padding: 6px;
+    margin-right: 54px;
+    margin-left: -25px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: lightcoral;
+    background-clip: padding-box;
+    border: 0;
+}
+	.carousel-caption h1 {
+    position: absolute;
+    right: 15%;
+    bottom: 19.25rem;
+    left: 15%;
+    font-size: 3rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+	   font-family: "Sevillana", cursive;
+    color: #fff;
+    text-align: center;
+}
+	.carousel-caption span {
+		color:lightcoral;
+	}
+	.carousel-caption h5 {
+    position: absolute;
+    right: 15%;
+    bottom: 25.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    border: 1px solid white;
+    border-left: none;   
+	font-family: "Sevillana", cursive;
+    border-right: none;
+}
+	.carousel-caption p {
+    position: absolute;
+    right: 58%;
+    bottom: 14.25rem;
+    margin-left: 11rem;
+    left: 15%;
+    font-family: "Sevillana", cursive;
+    font-size: 2rem;
+    width: 22%;
+    color: #fff;
+    text-align: center;
+    border: 1px solid white;
+	border-style:double;
+    border-left: none;
+    border-right: none;
+    }
+button.btns.btn-lg.btn-primary {
+    background-color: lightcoral;
+    border-color: lightcoral;
+    text-align: center;
+    padding: 22px 85px;
+    font-weight: 700;
+    margin: 2rem 5rem 4rem 0rem;
+    font-size: 23px;
+}
+.wedding_left {
+    margin-left: -2px;
+    margin-top: 4px;
+}
+	.wedding_right {
+    margin-left: 67rem;
+    margin-top: -13rem;
+}
+	.invitation h1 {
+    margin-top: -9rem;
+    font-size: 8rem;
+	color:lightcoral;
+	font-family: "Sevillana", cursive;
+}
+.img-fluid {
+    max-width: 104%;
+    height: 189px;
+    margin-left: 0rem;
+    position: sticky;
+    margin-top: -2rem;
+}
+.invitation_1 p{
+		font-size:3rem;
+	}
+    .invitation_4 h4{
+        font-size: 7rem;
+        margin-right: 13rem;
+        position: sticky;
+        float: right;
+        color: lightcoral;
+    }
+	.invitation_8 h2 {
+    margin-right: -7rem;
+    font-size: 2rem;
+    color: lightcoral;
+    margin-top: 0rem;
+}
+	.invitation_8 p {
+    margin-top: 3rem;
+    margin-left: -8rem;
+}
+.invitation_8 {
+    display: flex;
+    margin: 17rem;
+    padding: 1rem;
+}
+.invitation_6 h2 {
+    position: sticky;
+    margin-top: -17rem;
+    margin-left: 63rem;
+    font-size: 2rem;
+}
+.invitation_6 p {
+    position: absolute;
+    margin-top: 0rem;
+    margin-left: 63rem;
+}
+
+img.img-fluid2.img-border {
+    position: relative;
+    float: right;
+    margin-right: 12rem;
+    margin-top: -19rem;
+    width: 20%;
+    height: 188px;
+}
+	.invitation_8{
+		display:flex;
+		margin:10rem;
+		padding:1rem;
+	}
+	.text-center p{
+		font-size:3rem;
+	}
+	.h2, h2 {
+        margin-left: 5rem;
+        font-size: 1rem;
+		color:lightcoral;
+    }
+	.everymoment {
+    background-color: #bbbd98;
+    width: 100%;
+    height: 61rem;
+}
+	.every_moment h4 {
+    text-align: center;
+    margin-top: 8rem;
+    color: crimson;
+    margin-left: 12rem;
+    font-family: "Sevillana", cursive;
+    font-size: 2rem;
+}
+	.every_moment h1 {
+    text-align: center;
+    margin-right: -36rem;
+    margin-top: 1rem;
+    color: white;
+    font-family: "Sevillana", cursive;
+    font-size: 3rem;
+}
+.every_moment p {
+    margin-left: 48rem;
+    margin-top: 3rem;
+    font-size: 1rem;
+}
+.switch {
+    float: right;
+    margin-right: -13rem;
+    margin-top: 1rem;
+    border-color: lightcoral;
+    background-color: lightcoral;
+    color:#fff;
+}
+	.icons-0 {
+    font-size: 27rem ! important;
+    margin-left: 55rem;
+    float: left;
+    margin-top: -4rem;
+    font-weight: 600;
+    color: green;
+    border: 2px solid white;
+    padding: 10.01px;
+}
+.image-fluid {
+    width: 100%;
+    height: 641px;
+    text-align: center;
+    margin-left: 0rem;
+}
+.border-secondary{
+border-color: gold !important;
+border-style: double;
+width: 28%;
+height: 7rem;
+margin-top: 2rem;
+}
+img.bride_image {
+    width: 100%;
+    height: 108px;
+}
+	.bride_image h1 {
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: -7rem;
+    margin-left: 9rem;
+}
+	.bride_image p {
+    display: inline-block;
+    margin-top: -5rem;
+    margin-left: 9rem;
+}
+.d-flex {
+    margin-right: 4rem;
+    padding: 1rem;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    background-color: white;
+}
+.image_9 {
+    margin-top: -27rem;
+    margin-left: 61.4rem;
+}
+.image_8 {
+    margin-left: 12rem;
+    margin-top: -178px;
+    float: left;
+    border: 8px solid gold;
+    width: 35%;
+    border-style: double;
+}
+	.image-fluid {
+    width: 100%;
+    height: 641px;
+    text-align: center;
+    margin-left: 0rem;
+}
+.image_7 {
+    margin-top: -106px;
+    margin-left: -1rem;
+}
+.tab-class {
+    margin-right: -58rem;
+    margin-left: 44rem;
+    background-color: lightcoral;
+    margin-top: 11rem;
+}
+		.button a{
+			text-decoration:none;
+			text-transform:capitalize;
+			color:lightcoral;
+		}
+		.call h6 {
+    color: black;
+    margin-top: -18rem;
+    margin-left: 65rem;
+    display: ruby-text;
+    position: sticky;
+}
+	.call p {
+    color: black;
+    margin-top: 0rem;
+    margin-left: 65rem;
+    display: ruby-text;
+    position: sticky;
+	}
+	.icons {
+    margin-top: -19rem;
+    margin-left: 40rem;
+    color: green;
+}
+		.story_timeline h6 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    color: crimson;
+}
+		.story_timeline h1 {
+    margin-top: 2rem;
+    font-size: 4rem;
+}
+.text-center p {
+    font-size: 1rem;
+}
+	.icon h1 {
+    margin-left: 7rem;
+    margin-top: 11rem;
+    text-align: center;
+    color: #bbbd98;
+    font-size: 7rem;
+}
+	    .col-lg-3 {
+        flex: 0 0 auto;
+        width: 25%;
+        margin-left: 34rem;
+    }
+    
+	.meeting_pic{
+		margin-left:1rem;
+	}
+	.married h1 {
+    margin-top: -32rem;
+    margin-left: 15rem;
+    font-family: "Sevillana", cursive;
+    font-size: 5rem;
+}
+.married h5 {
+       color: black;
+    margin-left: 35rem;
+    margin-top: -36rem;
+    font-family: "Sevillana", cursive;
+    font-size: 2rem;
+    display: inline-block;
+    border-bottom: 3px solid white;
+    border-top: 3px solid white;
+    width: 15%;
+    height: 57px;
+}
+.married_s h6 {
+    margin-left: 17rem;
+    margin-top: -25rem;
+    font-size: 2rem;
+}
+.abc {
+    display: flex;
+    padding-right: 205px;
+    justify-content: space-between;
+    font-size: -32rem;
+    margin-right: 18rem;
+    margin-top: 2rem;
+    margin-left: 27rem;
+}
+button.btn.btn-lg.btn-primary {
+    background-color: lightcoral;
+    border-color: lightcoral;
+    margin-top: 3rem;
+    margin-left: 29rem;
+    padding: 22px 48px;
+    font-weight: 700;
+    font-size: 19px;
+}
+.Planing_Timeline {
+    background-color: #bbbd98;
+    width: 103%;
+    height: 712px;
+    margin-top: 14rem;
+    margin-left: -1rem;
+}
+		.Planing_timeline h2 {
+    font-size: 5rem;
+    margin-top: 1rem;
+    font-family: Sevillana;
+    margin-left: 14rem;
+}
+    .circle-left h5{
+		 margin-top:22rem;
+    color: lightcoral;
+    margin-left:88px;
+    float: left;
+    font-size:2rem;
+	}
+	.circle-right h5 {
+    margin-top: -26rem;
+    color: lightcoral;
+    margin-right: 31px;
+    float: right;
+    font-size: 2rem;
+}
+	.mouse_left {
+    height: 100px;
+    width: 100%;
+    margin: -2rem;
+    margin-left: -6rem;
+}
+	.mouse_right {
+    height: 100px;
+    width: 100%;
+    margin: -5rem;
+    margin-left: 69rem;
+}
+	.dinner h1 {
+    font-size: 5rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    color: lightcoral;
+}
+		.dinner h6 {
+			color:lightcoral;
+			text-align:center;
+		}
+		.dinner p {
+    font-size: 13.5px;
+    margin-left: 1rem;
+}
+		.dinner h2 {
+    margin-left: 3rem;
+    color: black;
+    font-size: 3rem;
+    margin-top: 0rem;
+}
+.gallery_1 h6, h1 {
+    font-size: 1rem;
+}
+	.wedding_gallery {
+		  font-family: "Sevillana", cursive;
+		  display:inline-block
+	}
+.wedding_gallery h2 {
+    margin-left: 22rem;
+    font-size: 5rem;
+    color: black;
+}
+	.wedding_gallery p {
+    margin-right: -26rem;
+    font-size: 2rem;
+}
+	*{
+	box-sizing:border-box;
+	}
+	.box {
+    width: 281px;
+    background: #fff;
+    position: relative;
+    margin: 10px auto;
+    position: relative;
+}
+	.box img {
+    width: 93%;
+    height: auto;
+    display: flex;
+    margin-left:3rem;
+	position:relative;
+}
+	.box h1 {
+    border: 1px solid black;
+    background-color: lightgrey;
+    text-align: center;
+    width: 94%;
+    height: 4rem;
+    margin-left: 3rem;
+    border-top: 0px;
+    padding-right: 1rem;
+}
+.ms-5 {
+    margin-left: -4rem !important;
+}
+		.box .box-content{
+			width:100%;
+			height:100%;
+			position:absolute;
+			top:0;
+			left:0;
+		}
+		.box.content{ 
+		width:100%;
+		height:100%;
+		position:absolute;
+		top:0;
+		bottom:0;
+		margin:auto;
+		z-index:1;
+		transform:rotate(90deg);
+		opacity:0;
+		transition:all 0.5s;
+		}
+		
+		.gallery_1 h6,h1{
+			font-size:1rem;
+					}
+			.col-lg-6 {
+    margin-top: 4rem;
+    display: contents;
+    margin-right: -7rem;
+    margin-left: 6rem;
+}
+	.Bridesmaids h1{
+		text-align:center;
+		font-size:5rem;
+		  font-family: "Sevillana", cursive;
+	}
+	.Bridesmaids  p{
+		text-align:center;
+	}
+	.Brides_0 h3 {
+    margin-top: -8rem;
+    font-family: "Sevillana", cursive;
+    color: white;
+    font-size: 3rem;
+}
+	.tables_left {
+    transform: rotate(54deg);
+    margin-left: -46rem;
+    margin-top: 28rem;
+}
+	.table_right {
+    z-index: -1 !important;
+    transform: translate3d(10px, 10px, 10px);
+    margin-left: -35rem;
+    margin-top: -35rem;
+    margin-left: -27rem;
+}
+			.moment{
+				margin-top:-24rem;
+				
+				 margin-left:-36rem;
+			}
+		
+			.forms h1 {
+    text-align: center;
+    font-size: 7rem;
+    color: lightcoral;
+	font-family: "Sevillana", cursive;
+}
+		.forms h5{
+			border:1px solid #e4c835;
+			padding-top: 1rem;
+    text-align: center;
+    margin-left: 28rem;
+    margin-right: 26rem;
+    padding-bottom: 1rem;
+	background-color:white;
+	margin-top:6rem;
+}
+.tv{
+	background-color:gainsboro;
+}
+	.forms_2{
+		display:flex;
+	}
+	    .col-lg-6 {
+    margin-top: 4rem;
+    flex: 0 0 auto;
+    width: 50%;
+    margin-right: -7rem;
+    margin-left: 6rem;
+}
+		.btn a {
+    border: 1px solid lightcoral;
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-left:-3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: lightcoral;
+    margin-bottom: -1rem;
+}
+	.calls {
+    margin-top: 2rem;
+    border: 2px solid gold;
+    float: left;
+    margin-left:1rem;
+    background-color: gainsboro;
+    width: 19%;
+    height: 102px;
+    padding: 1rem;
+}
+	.when h1 {
+    position: relative;
+    background-color: gainsboro;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 15rem;
+    border: 2px solid gold;
+    width: 34%;
+    margin-left: 3rem;
+    padding: 1rem;
+}
+		.where h1 {
+      position: absolute;
+    margin-left: 47rem;
+    text-align: center;
+    float: right;
+    padding: 1rem;
+    margin-top: -10rem;
+    border: 2px solid gold;
+    font-size: 2rem;
+    width: 39%;
+    background-color: gainsboro;
+}
+.ifram {
+    width: 100%;
+    height: 492px;
+    background-color: gray;
+}
+		.footer_wrapper{
+	/*background-image:url(wedding5/image/gallery-1.jpg);*/
+	background-color:black;
+	color:white;
+	line-height:40px;
+	letter-spacing:2px;
+}
+ .social_links h2{
+	 font-family: "Sevillana", cursive;
+	 color:white;
+	  font-size:50px;
+}
+ .quick_detail h2{
+	 font-family: "Sevillana", cursive;
+	 color:white;
+	  font-size:50px;
+}
+ .social_accounts h2{
+	 font-family: "Sevillana", cursive;
+	 color:white;
+	 font-size:50px;
+}
+ .contact_details h2{
+	 font-family: "Sevillana", cursive;
+	 color:white;
+	  font-size:50px;
+}
+  .social_links ul li{
+	     list-style-type:none;
+	 }
+	 .social_links ul li:hover{
+		 color:lightcoral;
+	 }
+	 .links ul li a{
+		 text-decoration:none ;
+	 }
+	 .links ul li{
+		 list-style-type:none;
+		 display:inline;
+		 border:1px solid white;
+		 margin:8px;
+		 padding:10px;
+		 background-color:white;
+		  color:lightcoral;
+	 }
+ .links ul li:hover{
+	color:white;
+	background-color:lightcoral;
+	border:1px solid lightcoral;
+}
+ .social_accounts ul li{
+	 list-style-type:none;
+}
+ .social_accounts ul li:hover{
+		 color:lightcoral;
+	 }
+  .contact_details ul li{
+		 list-style-type:none;
+	 }
+	 .contact_details ul li a{
+		   text-decoration:none ;
+	 }
+	.contact_details ul li:hover{
+		 color:lightcoral;
+	 }
